@@ -31,6 +31,6 @@ git clone https://bitbucket.org/emiestas/tvarkau-miesta.git
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] (LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vilnius/tvarkau-vilniu-miesta-web/blob/master/LICENSE) file for details
 
 
