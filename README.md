@@ -26,7 +26,7 @@ git clone https://bitbucket.org/emiestas/tvarkau-miesta.git
 
 ## Authors
 
-* **Vilniaus miesto savivaldybes E.miesto departamentas * 
+* Vilniaus miesto savivaldybes E.miesto departamentas 
 
 
 ## License
