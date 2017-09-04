@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=ZDScD0E4dT0
 MySQL
 PHP
 NGINX
+jQuery-File-Upload
+smarty
 ```
 
 ### Installing
